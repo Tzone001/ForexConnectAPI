@@ -1,5 +1,5 @@
 # example code how to change order, it can be used for any waiting order, attached stop or limit
-#the AMOUNT field is optional,
+#the AMOUNT field is optional
 
 
 import argparse
@@ -144,3 +144,4 @@ def main():
 if __name__ == "__main__":
     main()
     input("Done! Press enter key to exit\n")
+
